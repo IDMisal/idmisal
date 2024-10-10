@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ABDULKARIM MADINAH
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ISMAIL DANLADI MISAL
 ==========================================================================================================================================
 
 Software developer
 ------------------
 
 * 🌍  I'm based in Gombe, Nigeria
-* ✉️  You can contact me at [madinahabdulkarim24@gmail.com](mailto:madinahabdulkarim24@gmail.com)
+* ✉️  You can contact me at [ismaildanladimisal@gmail.com](mailto:ismaildanladimisal@gmail.com)
 * 🤝  I'm open to collaborating on interesting project
 
 ### Skills
